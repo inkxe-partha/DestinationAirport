@@ -1,0 +1,20 @@
+"DestinationAirport": [
+		{
+			"name": "Hanuman Vatika Airport",
+			"city": "Rourkela",
+			"location": "northwest of Downtown Hanuman Vatika",
+			"code": "HVA"
+		},
+		{
+			"name": "Indira Gandhi Park Airport",
+			"city": "Rourkela",
+			"location": "Near Indira Gandhi Park",
+			"code": "IGA"
+		},
+		{
+			"name": "Barabati Airport",
+			"city": "Cuttack",
+			"location": "7Miles From Main Bus Stop",
+			"code": "BART"
+		}
+	]
