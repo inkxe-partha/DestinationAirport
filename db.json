@@ -1,4 +1,5 @@
-"DestinationAirport": [
+{
+	"DestinationAirport": [
 		{
 			"name": "Hanuman Vatika Airport",
 			"city": "Rourkela",
@@ -18,3 +19,4 @@
 			"code": "BART"
 		}
 	]
+}
