@@ -1,22 +1,37 @@
 {
 	"DestinationAirport": [
 		{
+			"id":20,
 			"name": "Hanuman Vatika Airport",
 			"city": "Rourkela",
 			"location": "northwest of Downtown Hanuman Vatika",
-			"code": "HVA"
+			"code": "HVA",
+    			"address": "Rourkela, Orissa",
+		        "information": "Rourkela Airport Longue",
+		        "is_available": 1,
+		        "available_time": "All Day"
 		},
 		{
+			"id":21,
 			"name": "Indira Gandhi Park Airport",
 			"city": "Rourkela",
 			"location": "Near Indira Gandhi Park",
-			"code": "IGA"
+			"code": "IGA",
+			"address": "Rourkela, Orissa",
+			"information": "Rourkela Airport Longue",
+			"is_available": 1,
+			"available_time": "Mon-sat 5 AM to 6:30 PM"
 		},
 		{
+			"id":22,
 			"name": "Barabati Airport",
 			"city": "Cuttack",
 			"location": "7Miles From Main Bus Stop",
-			"code": "BART"
+			"code": "BART",
+		        "address": "Cuttack, Orissa",
+		        "information": "Cuttack Airport Longue",
+		        "is_available": 1,
+		        "available_time": "All Day"
 		}
 	]
 }
